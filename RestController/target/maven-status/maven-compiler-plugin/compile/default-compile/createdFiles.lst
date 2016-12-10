@@ -1,0 +1,9 @@
+com\rest\service\PersonServiceImpl.class
+com\rest\config\WebAppInitializer.class
+com\rest\config\WebAppConfig.class
+com\rest\controller\PersonController.class
+com\rest\service\PersonService.class
+com\rest\dao\PersonDaoImpl.class
+com\rest\config\DBConfig.class
+com\rest\dao\PersonDao.class
+com\rest\model\Person.class
